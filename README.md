@@ -2,9 +2,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-fellipebravo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fellipebravo/)](https://www.linkedin.com/in/fellipebravo/)
 [![Gmail Badge](https://img.shields.io/badge/-fellipe.bravo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fellipe.bravo@gmail.com)](mailto:fellipe.bravo@gmail.com)
 
-[![Swift Badge](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white)]()
-[![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)]()
-[![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)]()
+[![Swift Badge](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=Swift&logoColor=white)]()
+[![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white)]()
+[![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white)]()
 
 Mainly working with Swift, Kotlin, and Flutter (when I want a multi platform delivery).
 
